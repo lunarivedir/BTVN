@@ -18,7 +18,7 @@ public class Candidate {
 
     public void hienthi() {
 
-        System.out.println("Ten : " + this.ten + " , Date of birth : " + this.date + " , MSSV : " + this.mssv + " , diem Toan : " + dToan + " , diem Van : " + dVan + " , diem Anh : " + dAnh);
+        System.out.println("Ten : " + ten + " , Date of birth : " + date + " , MSSV : " + mssv + " , diem Toan : " + dToan + " , diem Van : " + dVan + " , diem Anh : " + dAnh);
 
     }
 

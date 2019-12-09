@@ -26,14 +26,18 @@ public class testCandidate {
     }
 
     public static void themSV() {
-        System.out.println("Ten Sinh Vien");
-        String ten = sc.nextLine();
+        
         sc.nextLine();
+        System.out.println("Ten Sinh Vien");        
+        String ten = sc.nextLine();
+        
         System.out.println("Nhap mssv");
         int mssv = sc.nextInt();
-        System.out.println("Nhap ngay thang nam sinh (xx/xx/19xx)");
-        String date = sc.nextLine();
+        
         sc.nextLine();
+        System.out.println("Nhap ngay thang nam sinh (xx/xx/19xx)");      
+        String date = sc.nextLine();
+        
         System.out.println("Nhap diem (Theo thu tu Toan Van Anh )");
         int dToan = sc.nextInt();
         int dVan = sc.nextInt();
